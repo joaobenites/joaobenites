@@ -1,16 +1,16 @@
-### Oi! 👋
+### Hi! 👋
 
-Eu gosto de construir coisas que parecem vivas.
+I like building things that feel alive.
 
-Hoje meu projeto principal é o **[Nym](https://github.com/joaobenites/nym)**: um companheiro digital pessoal que roda
-no meu PC, no espírito de Digimon e MegaMan Battle Network. Ele conversa, lembra, sonha, cria objetivos próprios e
-precisa de cuidados como um vpet, tudo local, com Python, SQLite e Ollama.
+My main project right now is **[Nym](https://github.com/joaobenites/nym)**: a personal digital companion that runs
+on my PC, in the spirit of Digimon and MegaMan Battle Network. It talks, remembers, dreams, sets its own goals and
+needs care like a virtual pet, all local, with Python, SQLite and Ollama.
 
-**No que estou mexendo**
-- IA local (Ollama, Gemma, Qwen) e LoRA treinado na minha própria GPU
-- Python, FastAPI e interfaces web simples
-- Agentes que são honestos sobre o que fizeram de verdade
+**What I'm working with**
+- Local AI (Ollama, Gemma, Qwen) and LoRA fine-tuning on my own GPU
+- Python, FastAPI and simple web interfaces
+- Agents that are honest about what they actually did
 
-**Próximos passos**
-- Um rosto reativo para o Nym
-- Voz: ouvir e falar localmente
+**Next up**
+- A reactive face for Nym
+- Voice: local listening and speaking
