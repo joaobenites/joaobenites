@@ -16,4 +16,4 @@ My main project right now is **[Nym](https://github.com/joaobenites/nym)**: a pe
 - Voice for Nym: local listening and speaking
 - Custom buttons and controls for my electric scooter app (Bluetooth Low Energy)
 
-📫 Open to developer and technical support roles in Ireland or remote · [LinkedIn]([(https://www.linkedin.com/in/jo%C3%A3o-felipe/)])
+📫 Open to developer and technical support roles in Ireland or remote · [LinkedIn](https://www.linkedin.com/in/joão-felipe/)
