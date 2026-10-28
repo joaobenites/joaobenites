@@ -13,7 +13,8 @@ My main project right now is **[Nym](https://github.com/joaobenites/nym)**: a pe
 - Agents that are honest about what they actually did
 
 **Next up**
-- A reactive face for Nym
-- Voice: local listening and speaking
+- Voice for Nym: local listening and speaking
+- Custom buttons and controls for my electric scooter app (kukirin g2)
 
+  
 📫 Open to developer and technical support roles in Ireland or remote · [LinkedIn](https://www.linkedin.com/in/joao-felipe/)
